@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaiThi_DTV.props" />
+</Project>
