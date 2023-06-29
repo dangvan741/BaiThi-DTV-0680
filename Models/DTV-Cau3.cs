@@ -6,9 +6,10 @@ namespace BaiThi_DTV
     {
         [Key]
         public string MaSV { get; set; }
-
+        [Display (Name ="Ma sinh vien")]
         public string TenSV { get; set; }
-
+        [Display (Name ="Ho Ten")]
         public string Adress { get; set; }
+        [Display (Name ="Dia Chi")]
     }
 }
